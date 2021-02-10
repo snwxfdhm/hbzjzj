@@ -1,0 +1,5 @@
+for vi in {1::20}
+do 
+   uesradd hbaj$vi 
+   echo "hbaj$vi  is  created!"
+done
